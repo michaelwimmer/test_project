@@ -2,3 +2,5 @@ This is my project. It is going to do many things, but I'm not yet sure what exa
 
 Probably, I will implement something using Python! 
 It will say "hello world" and then something else.
+
+And I can also add my ramblings!
